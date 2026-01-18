@@ -1,0 +1,20 @@
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.vs/
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+
+# Nu urca certificări sau date locale
+*.db
+*.sqlite
+appsettings.Development.json
+
+# Packages
+*.nupkg

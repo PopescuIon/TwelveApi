@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twelve.Api", "Twelve.Api.csproj", "{27945982-1493-7C23-1D8E-2AF01F852A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27945982-1493-7C23-1D8E-2AF01F852A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27945982-1493-7C23-1D8E-2AF01F852A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27945982-1493-7C23-1D8E-2AF01F852A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27945982-1493-7C23-1D8E-2AF01F852A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4987F63-DE00-4A37-9740-E7016BCF6722}
+	EndGlobalSection
+EndGlobal

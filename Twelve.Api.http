@@ -1,0 +1,6 @@
+@Twelve.Api_HostAddress = http://localhost:5144
+
+GET {{Twelve.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
